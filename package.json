@@ -1,0 +1,25 @@
+{
+  "name": "spotifyserver",
+  "version": "1.0.0",
+  "description": "Api Rest servicio de musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhuamani/spotifyServer.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node",
+    "mysql"
+  ],
+  "author": "nhuamani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhuamani/spotifyServer/issues"
+  },
+  "homepage": "https://github.com/nhuamani/spotifyServer#readme"
+}
